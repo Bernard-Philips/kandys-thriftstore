@@ -33,3 +33,5 @@ Love fashion? Love the Earth? You're in the right place. Shop with us and make a
 
 **Thank you for supporting Kandy's ThriftStore – where every purchase tells a story.**
 
+## View live website https://bernard-philips.github.io/kandys-thriftstore/
+
